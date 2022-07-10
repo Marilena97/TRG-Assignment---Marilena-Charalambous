@@ -10,7 +10,7 @@ Process:
 
 	2. I downloand the data by using this url "https://data.police.uk/data/fetch/a9d0b53f-6fcb-4733-bac1-b7ae8448ade9/" 
 		> Exctract and save as "Data" folder
-		> Note: you can use this link "https://data.police.uk/data/" to downloand different data with the other dates and the program still work
+		> Note: you can use this link "https://data.police.uk/data/" to downloand different data with other dates and the program still work
 
 	3. I solved the exercise using "Junior Data Engineer Assessment.ipynb" file.
 		> Import all csv files from "Data" folder
