@@ -31,7 +31,7 @@ File:
 		> Contains the data I used
 	
 	- "Final_Structured_Data.csv"
-		> contain the results
-		> it is located in releases
+		> contains the results
+		> it is located in the releases
 
 ========================================================================================================
