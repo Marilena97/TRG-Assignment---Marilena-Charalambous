@@ -29,5 +29,9 @@ File:
 
 	- Data folder
 		> Contains the data I used
+	
+	- "Final_Structured_Data.csv"
+		> contain the results
+		> it is located in released
 
 ========================================================================================================
