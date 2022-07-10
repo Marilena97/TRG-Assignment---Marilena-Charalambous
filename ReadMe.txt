@@ -32,6 +32,6 @@ File:
 	
 	- "Final_Structured_Data.csv"
 		> contain the results
-		> it is located in released
+		> it is located in releases
 
 ========================================================================================================
